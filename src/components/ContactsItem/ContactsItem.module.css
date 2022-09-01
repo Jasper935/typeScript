@@ -1,0 +1,15 @@
+.li{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid white;
+}
+.btn{
+    background-image: url('https://icon-library.com/images/delete-icon-png/delete-icon-png-19.jpg');
+    margin-top: auto;
+    margin-bottom: auto;
+    height:  25px;
+    margin-right: 25px;
+    /* background-color: white; */
+    cursor: pointer;
+    border-radius: 5px;
+}

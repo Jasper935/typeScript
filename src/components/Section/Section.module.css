@@ -1,0 +1,28 @@
+.section {
+   
+    position: relative;
+    font-weight: 600;
+   color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%);
+    /* background-color: #cad0e0; */
+    background-image: url('https://i.pinimg.com/originals/93/d8/ef/93d8ef315c338c65e172390733bed6ca.jpg');
+    text-align: center;
+    width: 500px;
+    box-shadow: 0 0 10px 5px rgb(93, 144, 210);
+    border-radius: 10px;
+    padding-top: 25px;
+    /* border: 2px solid white; */
+    padding-bottom: 20px;
+    margin:50px 0;
+    /* margin-right: auto;
+    margin-left: auto; */
+    z-index: 10;
+    /* box-shadow: 0 0 40px rgba(34,106,224 .2) inset; */
+
+  }
+.title {
+    display: block;
+    margin: 15px 15px
+  }
